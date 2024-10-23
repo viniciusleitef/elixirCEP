@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Build outputs
+build/
+dist/
+*.js.map
+
+# Elixir
+deps/
+_build/
+*.ez
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment variables
+.env
+
+# Log files
+log/*
